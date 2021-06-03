@@ -1,0 +1,4 @@
+ECHO attivo.
+ECHO attivo.
+
+ciao ciao ciao
